@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there 👋, Hello World! $whoami
+#### echo " I'm Siam Hossain, You can call me siam."
+![echo " I'm Siam Hossain, You can call me siam."](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**siam4528/siam4528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+$print("I am Siam Hossain. I am start from zero, i believe from one to multiple zero makes a million and Billon. One day, I make One just adding behind multiple zero's.")
 
-Here are some ideas to get you started:
+Skills: C | C++ | Python | HTML | CSS | Bash |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on To built Me 
+- 🌱 I’m currently learning Cyber Security 
+- 📫 How to reach me: mdsiam4528@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/-siam-hossain/)  
+
