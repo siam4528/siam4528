@@ -1,6 +1,6 @@
 ### Hi there 👋, Hello World! $whoami
 #### echo " I'm Siam Hossain, You can call me siam."
-![echo " I'm Siam Hossain, You can call me siam."]<img width="2174" height="1305" alt="IMG_0791 JPG (1)" src="https://github.com/user-attachments/assets/599874e6-120e-4404-bdb1-b50e38d1bc17" />
+echo " I'm Siam Hossain, You can call me siam."<img width="2174" height="1305" alt="IMG_0791 JPG (1)" src="https://github.com/user-attachments/assets/599874e6-120e-4404-bdb1-b50e38d1bc17" />
 
 $print("I am Siam Hossain. I am start from zero, i believe from one to multiple zero makes a million and Billon. One day, I make One just adding behind multiple zero's.")
 
