@@ -8,7 +8,7 @@ Skills: C | C++ | Python | HTML | CSS | Bash | Cyber Security |
 
 - 🔭 I’m currently working on To built Me 
 - 🌱 I’m currently learning Cyber Security 
-- 📫 How to reach me: mdsiam4528@gmail.com 
+- 📫 How to reach me:
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/-siam-hossain/)
